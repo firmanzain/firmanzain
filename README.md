@@ -9,6 +9,13 @@
 
 ###
 
+- 🔭 I’m currently working on [PAYDIA](https://paydia.id)
+- 🌱 I’m currently learning **Golang and Data Science**
+- 📫 How to reach me **firmanzainf@gmail.com**
+- ⚡ Fun fact **Bananas are berries, but strawberries aren't**
+
+###
+
 <h5 align="left">💻 Tech:</h5>
 
 ###
